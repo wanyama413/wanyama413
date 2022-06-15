@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @wanyama413
 - 👀 I’m interested in web development 
-- 🌱 I’m currently learning javascript 
+- 🌱 I’m a javascript Developer
 - 💞️ I’m looking to collaborate on any development project
 - 📫 How to reach me at sammymathias25@gmail.com 
 
